@@ -1,7 +1,7 @@
 
 ## Dreams to Degrees: The Batangas Provincial Scholarship System
 
-The **Dreams to Degrees** system aims to revolutionize the application and management process for the Batangas Provincial Scholarship. This project is inspired by the real-life challenges faced by provincial scholars. The traditional method\u2014relying on Facebook posts and manual searches through extensive lists\u2014is both time-consuming and error-prone. Our system provides an automated and efficient platform that reduces delays, minimizes stress, and enhances overall user experience.
+The **Dreams to Degrees** system aims to revolutionize the application and management process for the Batangas Provincial Scholarship. This project is inspired by the real-life challenges faced by provincial scholars. The traditional method relying on Facebook posts and manual searches through extensive lists is both time-consuming and error-prone. This system provides an automated and efficient platform that reduces delays, minimizes stress, and enhances overall user experience.
 
 ## Features
 
