@@ -1,7 +1,3 @@
-# Save the content as a README.md file
-file_path = "/mnt/data/Dreams_to_Degrees_README.md"
-
-readme_content = """# Dreams to Degrees: The Batangas Provincial Scholarship System
 
 ## Overview
 
